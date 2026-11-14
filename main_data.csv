@@ -1,0 +1,732 @@
+dteday,tahun,season_label,weather_label,weekday_label,day_type,casual,registered,cnt
+2011-01-01,2011,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,331,654,985
+2011-01-02,2011,Dingin,Berkabut,Minggu,Hari Libur / Akhir Pekan,131,670,801
+2011-01-03,2011,Dingin,Cerah,Senin,Hari Kerja,120,1229,1349
+2011-01-04,2011,Dingin,Cerah,Selasa,Hari Kerja,108,1454,1562
+2011-01-05,2011,Dingin,Cerah,Rabu,Hari Kerja,82,1518,1600
+2011-01-06,2011,Dingin,Cerah,Kamis,Hari Kerja,88,1518,1606
+2011-01-07,2011,Dingin,Berkabut,Jumat,Hari Kerja,148,1362,1510
+2011-01-08,2011,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,68,891,959
+2011-01-09,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,54,768,822
+2011-01-10,2011,Dingin,Cerah,Senin,Hari Kerja,41,1280,1321
+2011-01-11,2011,Dingin,Berkabut,Selasa,Hari Kerja,43,1220,1263
+2011-01-12,2011,Dingin,Cerah,Rabu,Hari Kerja,25,1137,1162
+2011-01-13,2011,Dingin,Cerah,Kamis,Hari Kerja,38,1368,1406
+2011-01-14,2011,Dingin,Cerah,Jumat,Hari Kerja,54,1367,1421
+2011-01-15,2011,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,222,1026,1248
+2011-01-16,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,251,953,1204
+2011-01-17,2011,Dingin,Berkabut,Senin,Hari Libur / Akhir Pekan,117,883,1000
+2011-01-18,2011,Dingin,Berkabut,Selasa,Hari Kerja,9,674,683
+2011-01-19,2011,Dingin,Berkabut,Rabu,Hari Kerja,78,1572,1650
+2011-01-20,2011,Dingin,Berkabut,Kamis,Hari Kerja,83,1844,1927
+2011-01-21,2011,Dingin,Cerah,Jumat,Hari Kerja,75,1468,1543
+2011-01-22,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,93,888,981
+2011-01-23,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,150,836,986
+2011-01-24,2011,Dingin,Cerah,Senin,Hari Kerja,86,1330,1416
+2011-01-25,2011,Dingin,Berkabut,Selasa,Hari Kerja,186,1799,1985
+2011-01-26,2011,Dingin,Hujan/Salju,Rabu,Hari Kerja,34,472,506
+2011-01-27,2011,Dingin,Cerah,Kamis,Hari Kerja,15,416,431
+2011-01-28,2011,Dingin,Berkabut,Jumat,Hari Kerja,38,1129,1167
+2011-01-29,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,123,975,1098
+2011-01-30,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,140,956,1096
+2011-01-31,2011,Dingin,Berkabut,Senin,Hari Kerja,42,1459,1501
+2011-02-01,2011,Dingin,Berkabut,Selasa,Hari Kerja,47,1313,1360
+2011-02-02,2011,Dingin,Berkabut,Rabu,Hari Kerja,72,1454,1526
+2011-02-03,2011,Dingin,Cerah,Kamis,Hari Kerja,61,1489,1550
+2011-02-04,2011,Dingin,Berkabut,Jumat,Hari Kerja,88,1620,1708
+2011-02-05,2011,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,100,905,1005
+2011-02-06,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,354,1269,1623
+2011-02-07,2011,Dingin,Cerah,Senin,Hari Kerja,120,1592,1712
+2011-02-08,2011,Dingin,Cerah,Selasa,Hari Kerja,64,1466,1530
+2011-02-09,2011,Dingin,Berkabut,Rabu,Hari Kerja,53,1552,1605
+2011-02-10,2011,Dingin,Cerah,Kamis,Hari Kerja,47,1491,1538
+2011-02-11,2011,Dingin,Cerah,Jumat,Hari Kerja,149,1597,1746
+2011-02-12,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,288,1184,1472
+2011-02-13,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,397,1192,1589
+2011-02-14,2011,Dingin,Cerah,Senin,Hari Kerja,208,1705,1913
+2011-02-15,2011,Dingin,Cerah,Selasa,Hari Kerja,140,1675,1815
+2011-02-16,2011,Dingin,Cerah,Rabu,Hari Kerja,218,1897,2115
+2011-02-17,2011,Dingin,Cerah,Kamis,Hari Kerja,259,2216,2475
+2011-02-18,2011,Dingin,Cerah,Jumat,Hari Kerja,579,2348,2927
+2011-02-19,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,532,1103,1635
+2011-02-20,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,639,1173,1812
+2011-02-21,2011,Dingin,Berkabut,Senin,Hari Libur / Akhir Pekan,195,912,1107
+2011-02-22,2011,Dingin,Cerah,Selasa,Hari Kerja,74,1376,1450
+2011-02-23,2011,Dingin,Cerah,Rabu,Hari Kerja,139,1778,1917
+2011-02-24,2011,Dingin,Berkabut,Kamis,Hari Kerja,100,1707,1807
+2011-02-25,2011,Dingin,Berkabut,Jumat,Hari Kerja,120,1341,1461
+2011-02-26,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,424,1545,1969
+2011-02-27,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,694,1708,2402
+2011-02-28,2011,Dingin,Berkabut,Senin,Hari Kerja,81,1365,1446
+2011-03-01,2011,Dingin,Cerah,Selasa,Hari Kerja,137,1714,1851
+2011-03-02,2011,Dingin,Cerah,Rabu,Hari Kerja,231,1903,2134
+2011-03-03,2011,Dingin,Cerah,Kamis,Hari Kerja,123,1562,1685
+2011-03-04,2011,Dingin,Berkabut,Jumat,Hari Kerja,214,1730,1944
+2011-03-05,2011,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,640,1437,2077
+2011-03-06,2011,Dingin,Berkabut,Minggu,Hari Libur / Akhir Pekan,114,491,605
+2011-03-07,2011,Dingin,Cerah,Senin,Hari Kerja,244,1628,1872
+2011-03-08,2011,Dingin,Cerah,Selasa,Hari Kerja,316,1817,2133
+2011-03-09,2011,Dingin,Berkabut,Rabu,Hari Kerja,191,1700,1891
+2011-03-10,2011,Dingin,Hujan/Salju,Kamis,Hari Kerja,46,577,623
+2011-03-11,2011,Dingin,Berkabut,Jumat,Hari Kerja,247,1730,1977
+2011-03-12,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,724,1408,2132
+2011-03-13,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,982,1435,2417
+2011-03-14,2011,Dingin,Cerah,Senin,Hari Kerja,359,1687,2046
+2011-03-15,2011,Dingin,Berkabut,Selasa,Hari Kerja,289,1767,2056
+2011-03-16,2011,Dingin,Berkabut,Rabu,Hari Kerja,321,1871,2192
+2011-03-17,2011,Dingin,Cerah,Kamis,Hari Kerja,424,2320,2744
+2011-03-18,2011,Dingin,Cerah,Jumat,Hari Kerja,884,2355,3239
+2011-03-19,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,1424,1693,3117
+2011-03-20,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,1047,1424,2471
+2011-03-21,2011,Semi,Berkabut,Senin,Hari Kerja,401,1676,2077
+2011-03-22,2011,Semi,Cerah,Selasa,Hari Kerja,460,2243,2703
+2011-03-23,2011,Semi,Berkabut,Rabu,Hari Kerja,203,1918,2121
+2011-03-24,2011,Semi,Berkabut,Kamis,Hari Kerja,166,1699,1865
+2011-03-25,2011,Semi,Cerah,Jumat,Hari Kerja,300,1910,2210
+2011-03-26,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,981,1515,2496
+2011-03-27,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,472,1221,1693
+2011-03-28,2011,Semi,Cerah,Senin,Hari Kerja,222,1806,2028
+2011-03-29,2011,Semi,Cerah,Selasa,Hari Kerja,317,2108,2425
+2011-03-30,2011,Semi,Berkabut,Rabu,Hari Kerja,168,1368,1536
+2011-03-31,2011,Semi,Hujan/Salju,Kamis,Hari Kerja,179,1506,1685
+2011-04-01,2011,Semi,Berkabut,Jumat,Hari Kerja,307,1920,2227
+2011-04-02,2011,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,898,1354,2252
+2011-04-03,2011,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,1651,1598,3249
+2011-04-04,2011,Semi,Cerah,Senin,Hari Kerja,734,2381,3115
+2011-04-05,2011,Semi,Berkabut,Selasa,Hari Kerja,167,1628,1795
+2011-04-06,2011,Semi,Cerah,Rabu,Hari Kerja,413,2395,2808
+2011-04-07,2011,Semi,Cerah,Kamis,Hari Kerja,571,2570,3141
+2011-04-08,2011,Semi,Berkabut,Jumat,Hari Kerja,172,1299,1471
+2011-04-09,2011,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,879,1576,2455
+2011-04-10,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1188,1707,2895
+2011-04-11,2011,Semi,Berkabut,Senin,Hari Kerja,855,2493,3348
+2011-04-12,2011,Semi,Berkabut,Selasa,Hari Kerja,257,1777,2034
+2011-04-13,2011,Semi,Berkabut,Rabu,Hari Kerja,209,1953,2162
+2011-04-14,2011,Semi,Cerah,Kamis,Hari Kerja,529,2738,3267
+2011-04-15,2011,Semi,Cerah,Jumat,Hari Libur / Akhir Pekan,642,2484,3126
+2011-04-16,2011,Semi,Hujan/Salju,Sabtu,Hari Libur / Akhir Pekan,121,674,795
+2011-04-17,2011,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,1558,2186,3744
+2011-04-18,2011,Semi,Cerah,Senin,Hari Kerja,669,2760,3429
+2011-04-19,2011,Semi,Berkabut,Selasa,Hari Kerja,409,2795,3204
+2011-04-20,2011,Semi,Cerah,Rabu,Hari Kerja,613,3331,3944
+2011-04-21,2011,Semi,Cerah,Kamis,Hari Kerja,745,3444,4189
+2011-04-22,2011,Semi,Berkabut,Jumat,Hari Kerja,177,1506,1683
+2011-04-23,2011,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1462,2574,4036
+2011-04-24,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1710,2481,4191
+2011-04-25,2011,Semi,Cerah,Senin,Hari Kerja,773,3300,4073
+2011-04-26,2011,Semi,Cerah,Selasa,Hari Kerja,678,3722,4400
+2011-04-27,2011,Semi,Berkabut,Rabu,Hari Kerja,547,3325,3872
+2011-04-28,2011,Semi,Berkabut,Kamis,Hari Kerja,569,3489,4058
+2011-04-29,2011,Semi,Cerah,Jumat,Hari Kerja,878,3717,4595
+2011-04-30,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,1965,3347,5312
+2011-05-01,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1138,2213,3351
+2011-05-02,2011,Semi,Berkabut,Senin,Hari Kerja,847,3554,4401
+2011-05-03,2011,Semi,Berkabut,Selasa,Hari Kerja,603,3848,4451
+2011-05-04,2011,Semi,Berkabut,Rabu,Hari Kerja,255,2378,2633
+2011-05-05,2011,Semi,Cerah,Kamis,Hari Kerja,614,3819,4433
+2011-05-06,2011,Semi,Cerah,Jumat,Hari Kerja,894,3714,4608
+2011-05-07,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,1612,3102,4714
+2011-05-08,2011,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,1401,2932,4333
+2011-05-09,2011,Semi,Cerah,Senin,Hari Kerja,664,3698,4362
+2011-05-10,2011,Semi,Cerah,Selasa,Hari Kerja,694,4109,4803
+2011-05-11,2011,Semi,Cerah,Rabu,Hari Kerja,550,3632,4182
+2011-05-12,2011,Semi,Cerah,Kamis,Hari Kerja,695,4169,4864
+2011-05-13,2011,Semi,Berkabut,Jumat,Hari Kerja,692,3413,4105
+2011-05-14,2011,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,902,2507,3409
+2011-05-15,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1582,2971,4553
+2011-05-16,2011,Semi,Cerah,Senin,Hari Kerja,773,3185,3958
+2011-05-17,2011,Semi,Berkabut,Selasa,Hari Kerja,678,3445,4123
+2011-05-18,2011,Semi,Berkabut,Rabu,Hari Kerja,536,3319,3855
+2011-05-19,2011,Semi,Berkabut,Kamis,Hari Kerja,735,3840,4575
+2011-05-20,2011,Semi,Cerah,Jumat,Hari Kerja,909,4008,4917
+2011-05-21,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2258,3547,5805
+2011-05-22,2011,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,1576,3084,4660
+2011-05-23,2011,Semi,Berkabut,Senin,Hari Kerja,836,3438,4274
+2011-05-24,2011,Semi,Berkabut,Selasa,Hari Kerja,659,3833,4492
+2011-05-25,2011,Semi,Cerah,Rabu,Hari Kerja,740,4238,4978
+2011-05-26,2011,Semi,Cerah,Kamis,Hari Kerja,758,3919,4677
+2011-05-27,2011,Semi,Cerah,Jumat,Hari Kerja,871,3808,4679
+2011-05-28,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2001,2757,4758
+2011-05-29,2011,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2355,2433,4788
+2011-05-30,2011,Semi,Cerah,Senin,Hari Libur / Akhir Pekan,1549,2549,4098
+2011-05-31,2011,Semi,Cerah,Selasa,Hari Kerja,673,3309,3982
+2011-06-01,2011,Semi,Berkabut,Rabu,Hari Kerja,513,3461,3974
+2011-06-02,2011,Semi,Cerah,Kamis,Hari Kerja,736,4232,4968
+2011-06-03,2011,Semi,Cerah,Jumat,Hari Kerja,898,4414,5312
+2011-06-04,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,1869,3473,5342
+2011-06-05,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1685,3221,4906
+2011-06-06,2011,Semi,Cerah,Senin,Hari Kerja,673,3875,4548
+2011-06-07,2011,Semi,Cerah,Selasa,Hari Kerja,763,4070,4833
+2011-06-08,2011,Semi,Cerah,Rabu,Hari Kerja,676,3725,4401
+2011-06-09,2011,Semi,Berkabut,Kamis,Hari Kerja,563,3352,3915
+2011-06-10,2011,Semi,Cerah,Jumat,Hari Kerja,815,3771,4586
+2011-06-11,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,1729,3237,4966
+2011-06-12,2011,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,1467,2993,4460
+2011-06-13,2011,Semi,Cerah,Senin,Hari Kerja,863,4157,5020
+2011-06-14,2011,Semi,Cerah,Selasa,Hari Kerja,727,4164,4891
+2011-06-15,2011,Semi,Cerah,Rabu,Hari Kerja,769,4411,5180
+2011-06-16,2011,Semi,Berkabut,Kamis,Hari Kerja,545,3222,3767
+2011-06-17,2011,Semi,Cerah,Jumat,Hari Kerja,863,3981,4844
+2011-06-18,2011,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,1807,3312,5119
+2011-06-19,2011,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1639,3105,4744
+2011-06-20,2011,Semi,Berkabut,Senin,Hari Kerja,699,3311,4010
+2011-06-21,2011,Panas,Berkabut,Selasa,Hari Kerja,774,4061,4835
+2011-06-22,2011,Panas,Cerah,Rabu,Hari Kerja,661,3846,4507
+2011-06-23,2011,Panas,Berkabut,Kamis,Hari Kerja,746,4044,4790
+2011-06-24,2011,Panas,Cerah,Jumat,Hari Kerja,969,4022,4991
+2011-06-25,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1782,3420,5202
+2011-06-26,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1920,3385,5305
+2011-06-27,2011,Panas,Berkabut,Senin,Hari Kerja,854,3854,4708
+2011-06-28,2011,Panas,Cerah,Selasa,Hari Kerja,732,3916,4648
+2011-06-29,2011,Panas,Cerah,Rabu,Hari Kerja,848,4377,5225
+2011-06-30,2011,Panas,Cerah,Kamis,Hari Kerja,1027,4488,5515
+2011-07-01,2011,Panas,Cerah,Jumat,Hari Kerja,1246,4116,5362
+2011-07-02,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2204,2915,5119
+2011-07-03,2011,Panas,Berkabut,Minggu,Hari Libur / Akhir Pekan,2282,2367,4649
+2011-07-04,2011,Panas,Berkabut,Senin,Hari Libur / Akhir Pekan,3065,2978,6043
+2011-07-05,2011,Panas,Cerah,Selasa,Hari Kerja,1031,3634,4665
+2011-07-06,2011,Panas,Cerah,Rabu,Hari Kerja,784,3845,4629
+2011-07-07,2011,Panas,Cerah,Kamis,Hari Kerja,754,3838,4592
+2011-07-08,2011,Panas,Berkabut,Jumat,Hari Kerja,692,3348,4040
+2011-07-09,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1988,3348,5336
+2011-07-10,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1743,3138,4881
+2011-07-11,2011,Panas,Cerah,Senin,Hari Kerja,723,3363,4086
+2011-07-12,2011,Panas,Cerah,Selasa,Hari Kerja,662,3596,4258
+2011-07-13,2011,Panas,Cerah,Rabu,Hari Kerja,748,3594,4342
+2011-07-14,2011,Panas,Cerah,Kamis,Hari Kerja,888,4196,5084
+2011-07-15,2011,Panas,Cerah,Jumat,Hari Kerja,1318,4220,5538
+2011-07-16,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2418,3505,5923
+2011-07-17,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2006,3296,5302
+2011-07-18,2011,Panas,Cerah,Senin,Hari Kerja,841,3617,4458
+2011-07-19,2011,Panas,Cerah,Selasa,Hari Kerja,752,3789,4541
+2011-07-20,2011,Panas,Cerah,Rabu,Hari Kerja,644,3688,4332
+2011-07-21,2011,Panas,Berkabut,Kamis,Hari Kerja,632,3152,3784
+2011-07-22,2011,Panas,Cerah,Jumat,Hari Kerja,562,2825,3387
+2011-07-23,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,987,2298,3285
+2011-07-24,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1050,2556,3606
+2011-07-25,2011,Panas,Cerah,Senin,Hari Kerja,568,3272,3840
+2011-07-26,2011,Panas,Cerah,Selasa,Hari Kerja,750,3840,4590
+2011-07-27,2011,Panas,Cerah,Rabu,Hari Kerja,755,3901,4656
+2011-07-28,2011,Panas,Cerah,Kamis,Hari Kerja,606,3784,4390
+2011-07-29,2011,Panas,Cerah,Jumat,Hari Kerja,670,3176,3846
+2011-07-30,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1559,2916,4475
+2011-07-31,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1524,2778,4302
+2011-08-01,2011,Panas,Cerah,Senin,Hari Kerja,729,3537,4266
+2011-08-02,2011,Panas,Cerah,Selasa,Hari Kerja,801,4044,4845
+2011-08-03,2011,Panas,Berkabut,Rabu,Hari Kerja,467,3107,3574
+2011-08-04,2011,Panas,Berkabut,Kamis,Hari Kerja,799,3777,4576
+2011-08-05,2011,Panas,Cerah,Jumat,Hari Kerja,1023,3843,4866
+2011-08-06,2011,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1521,2773,4294
+2011-08-07,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1298,2487,3785
+2011-08-08,2011,Panas,Cerah,Senin,Hari Kerja,846,3480,4326
+2011-08-09,2011,Panas,Cerah,Selasa,Hari Kerja,907,3695,4602
+2011-08-10,2011,Panas,Cerah,Rabu,Hari Kerja,884,3896,4780
+2011-08-11,2011,Panas,Cerah,Kamis,Hari Kerja,812,3980,4792
+2011-08-12,2011,Panas,Cerah,Jumat,Hari Kerja,1051,3854,4905
+2011-08-13,2011,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1504,2646,4150
+2011-08-14,2011,Panas,Berkabut,Minggu,Hari Libur / Akhir Pekan,1338,2482,3820
+2011-08-15,2011,Panas,Cerah,Senin,Hari Kerja,775,3563,4338
+2011-08-16,2011,Panas,Cerah,Selasa,Hari Kerja,721,4004,4725
+2011-08-17,2011,Panas,Cerah,Rabu,Hari Kerja,668,4026,4694
+2011-08-18,2011,Panas,Cerah,Kamis,Hari Kerja,639,3166,3805
+2011-08-19,2011,Panas,Berkabut,Jumat,Hari Kerja,797,3356,4153
+2011-08-20,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1914,3277,5191
+2011-08-21,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1249,2624,3873
+2011-08-22,2011,Panas,Cerah,Senin,Hari Kerja,833,3925,4758
+2011-08-23,2011,Panas,Cerah,Selasa,Hari Kerja,1281,4614,5895
+2011-08-24,2011,Panas,Cerah,Rabu,Hari Kerja,949,4181,5130
+2011-08-25,2011,Panas,Berkabut,Kamis,Hari Kerja,435,3107,3542
+2011-08-26,2011,Panas,Cerah,Jumat,Hari Kerja,768,3893,4661
+2011-08-27,2011,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,226,889,1115
+2011-08-28,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1415,2919,4334
+2011-08-29,2011,Panas,Cerah,Senin,Hari Kerja,729,3905,4634
+2011-08-30,2011,Panas,Cerah,Selasa,Hari Kerja,775,4429,5204
+2011-08-31,2011,Panas,Cerah,Rabu,Hari Kerja,688,4370,5058
+2011-09-01,2011,Panas,Cerah,Kamis,Hari Kerja,783,4332,5115
+2011-09-02,2011,Panas,Berkabut,Jumat,Hari Kerja,875,3852,4727
+2011-09-03,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1935,2549,4484
+2011-09-04,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2521,2419,4940
+2011-09-05,2011,Panas,Berkabut,Senin,Hari Libur / Akhir Pekan,1236,2115,3351
+2011-09-06,2011,Panas,Hujan/Salju,Selasa,Hari Kerja,204,2506,2710
+2011-09-07,2011,Panas,Hujan/Salju,Rabu,Hari Kerja,118,1878,1996
+2011-09-08,2011,Panas,Hujan/Salju,Kamis,Hari Kerja,153,1689,1842
+2011-09-09,2011,Panas,Berkabut,Jumat,Hari Kerja,417,3127,3544
+2011-09-10,2011,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1750,3595,5345
+2011-09-11,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1633,3413,5046
+2011-09-12,2011,Panas,Cerah,Senin,Hari Kerja,690,4023,4713
+2011-09-13,2011,Panas,Cerah,Selasa,Hari Kerja,701,4062,4763
+2011-09-14,2011,Panas,Cerah,Rabu,Hari Kerja,647,4138,4785
+2011-09-15,2011,Panas,Berkabut,Kamis,Hari Kerja,428,3231,3659
+2011-09-16,2011,Panas,Berkabut,Jumat,Hari Kerja,742,4018,4760
+2011-09-17,2011,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1434,3077,4511
+2011-09-18,2011,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1353,2921,4274
+2011-09-19,2011,Panas,Berkabut,Senin,Hari Kerja,691,3848,4539
+2011-09-20,2011,Panas,Berkabut,Selasa,Hari Kerja,438,3203,3641
+2011-09-21,2011,Panas,Berkabut,Rabu,Hari Kerja,539,3813,4352
+2011-09-22,2011,Panas,Berkabut,Kamis,Hari Kerja,555,4240,4795
+2011-09-23,2011,Gugur,Berkabut,Jumat,Hari Kerja,258,2137,2395
+2011-09-24,2011,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1776,3647,5423
+2011-09-25,2011,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,1544,3466,5010
+2011-09-26,2011,Gugur,Berkabut,Senin,Hari Kerja,684,3946,4630
+2011-09-27,2011,Gugur,Berkabut,Selasa,Hari Kerja,477,3643,4120
+2011-09-28,2011,Gugur,Berkabut,Rabu,Hari Kerja,480,3427,3907
+2011-09-29,2011,Gugur,Cerah,Kamis,Hari Kerja,653,4186,4839
+2011-09-30,2011,Gugur,Cerah,Jumat,Hari Kerja,830,4372,5202
+2011-10-01,2011,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,480,1949,2429
+2011-10-02,2011,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,616,2302,2918
+2011-10-03,2011,Gugur,Berkabut,Senin,Hari Kerja,330,3240,3570
+2011-10-04,2011,Gugur,Cerah,Selasa,Hari Kerja,486,3970,4456
+2011-10-05,2011,Gugur,Cerah,Rabu,Hari Kerja,559,4267,4826
+2011-10-06,2011,Gugur,Cerah,Kamis,Hari Kerja,639,4126,4765
+2011-10-07,2011,Gugur,Cerah,Jumat,Hari Kerja,949,4036,4985
+2011-10-08,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,2235,3174,5409
+2011-10-09,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,2397,3114,5511
+2011-10-10,2011,Gugur,Cerah,Senin,Hari Libur / Akhir Pekan,1514,3603,5117
+2011-10-11,2011,Gugur,Berkabut,Selasa,Hari Kerja,667,3896,4563
+2011-10-12,2011,Gugur,Hujan/Salju,Rabu,Hari Kerja,217,2199,2416
+2011-10-13,2011,Gugur,Berkabut,Kamis,Hari Kerja,290,2623,2913
+2011-10-14,2011,Gugur,Berkabut,Jumat,Hari Kerja,529,3115,3644
+2011-10-15,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,1899,3318,5217
+2011-10-16,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,1748,3293,5041
+2011-10-17,2011,Gugur,Cerah,Senin,Hari Kerja,713,3857,4570
+2011-10-18,2011,Gugur,Berkabut,Selasa,Hari Kerja,637,4111,4748
+2011-10-19,2011,Gugur,Hujan/Salju,Rabu,Hari Kerja,254,2170,2424
+2011-10-20,2011,Gugur,Cerah,Kamis,Hari Kerja,471,3724,4195
+2011-10-21,2011,Gugur,Cerah,Jumat,Hari Kerja,676,3628,4304
+2011-10-22,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,1499,2809,4308
+2011-10-23,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,1619,2762,4381
+2011-10-24,2011,Gugur,Cerah,Senin,Hari Kerja,699,3488,4187
+2011-10-25,2011,Gugur,Cerah,Selasa,Hari Kerja,695,3992,4687
+2011-10-26,2011,Gugur,Berkabut,Rabu,Hari Kerja,404,3490,3894
+2011-10-27,2011,Gugur,Berkabut,Kamis,Hari Kerja,240,2419,2659
+2011-10-28,2011,Gugur,Berkabut,Jumat,Hari Kerja,456,3291,3747
+2011-10-29,2011,Gugur,Hujan/Salju,Sabtu,Hari Libur / Akhir Pekan,57,570,627
+2011-10-30,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,885,2446,3331
+2011-10-31,2011,Gugur,Cerah,Senin,Hari Kerja,362,3307,3669
+2011-11-01,2011,Gugur,Cerah,Selasa,Hari Kerja,410,3658,4068
+2011-11-02,2011,Gugur,Cerah,Rabu,Hari Kerja,370,3816,4186
+2011-11-03,2011,Gugur,Cerah,Kamis,Hari Kerja,318,3656,3974
+2011-11-04,2011,Gugur,Berkabut,Jumat,Hari Kerja,470,3576,4046
+2011-11-05,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,1156,2770,3926
+2011-11-06,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,952,2697,3649
+2011-11-07,2011,Gugur,Cerah,Senin,Hari Kerja,373,3662,4035
+2011-11-08,2011,Gugur,Cerah,Selasa,Hari Kerja,376,3829,4205
+2011-11-09,2011,Gugur,Cerah,Rabu,Hari Kerja,305,3804,4109
+2011-11-10,2011,Gugur,Berkabut,Kamis,Hari Kerja,190,2743,2933
+2011-11-11,2011,Gugur,Cerah,Jumat,Hari Libur / Akhir Pekan,440,2928,3368
+2011-11-12,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,1275,2792,4067
+2011-11-13,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,1004,2713,3717
+2011-11-14,2011,Gugur,Cerah,Senin,Hari Kerja,595,3891,4486
+2011-11-15,2011,Gugur,Berkabut,Selasa,Hari Kerja,449,3746,4195
+2011-11-16,2011,Gugur,Hujan/Salju,Rabu,Hari Kerja,145,1672,1817
+2011-11-17,2011,Gugur,Berkabut,Kamis,Hari Kerja,139,2914,3053
+2011-11-18,2011,Gugur,Cerah,Jumat,Hari Kerja,245,3147,3392
+2011-11-19,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,943,2720,3663
+2011-11-20,2011,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,787,2733,3520
+2011-11-21,2011,Gugur,Hujan/Salju,Senin,Hari Kerja,220,2545,2765
+2011-11-22,2011,Gugur,Hujan/Salju,Selasa,Hari Kerja,69,1538,1607
+2011-11-23,2011,Gugur,Berkabut,Rabu,Hari Kerja,112,2454,2566
+2011-11-24,2011,Gugur,Cerah,Kamis,Hari Libur / Akhir Pekan,560,935,1495
+2011-11-25,2011,Gugur,Cerah,Jumat,Hari Kerja,1095,1697,2792
+2011-11-26,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,1249,1819,3068
+2011-11-27,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,810,2261,3071
+2011-11-28,2011,Gugur,Cerah,Senin,Hari Kerja,253,3614,3867
+2011-11-29,2011,Gugur,Berkabut,Selasa,Hari Kerja,96,2818,2914
+2011-11-30,2011,Gugur,Cerah,Rabu,Hari Kerja,188,3425,3613
+2011-12-01,2011,Gugur,Cerah,Kamis,Hari Kerja,182,3545,3727
+2011-12-02,2011,Gugur,Cerah,Jumat,Hari Kerja,268,3672,3940
+2011-12-03,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,706,2908,3614
+2011-12-04,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,634,2851,3485
+2011-12-05,2011,Gugur,Berkabut,Senin,Hari Kerja,233,3578,3811
+2011-12-06,2011,Gugur,Hujan/Salju,Selasa,Hari Kerja,126,2468,2594
+2011-12-07,2011,Gugur,Hujan/Salju,Rabu,Hari Kerja,50,655,705
+2011-12-08,2011,Gugur,Cerah,Kamis,Hari Kerja,150,3172,3322
+2011-12-09,2011,Gugur,Cerah,Jumat,Hari Kerja,261,3359,3620
+2011-12-10,2011,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,502,2688,3190
+2011-12-11,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,377,2366,2743
+2011-12-12,2011,Gugur,Cerah,Senin,Hari Kerja,143,3167,3310
+2011-12-13,2011,Gugur,Cerah,Selasa,Hari Kerja,155,3368,3523
+2011-12-14,2011,Gugur,Berkabut,Rabu,Hari Kerja,178,3562,3740
+2011-12-15,2011,Gugur,Berkabut,Kamis,Hari Kerja,181,3528,3709
+2011-12-16,2011,Gugur,Berkabut,Jumat,Hari Kerja,178,3399,3577
+2011-12-17,2011,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,275,2464,2739
+2011-12-18,2011,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,220,2211,2431
+2011-12-19,2011,Gugur,Cerah,Senin,Hari Kerja,260,3143,3403
+2011-12-20,2011,Gugur,Berkabut,Selasa,Hari Kerja,216,3534,3750
+2011-12-21,2011,Dingin,Berkabut,Rabu,Hari Kerja,107,2553,2660
+2011-12-22,2011,Dingin,Berkabut,Kamis,Hari Kerja,227,2841,3068
+2011-12-23,2011,Dingin,Cerah,Jumat,Hari Kerja,163,2046,2209
+2011-12-24,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,155,856,1011
+2011-12-25,2011,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,303,451,754
+2011-12-26,2011,Dingin,Cerah,Senin,Hari Libur / Akhir Pekan,430,887,1317
+2011-12-27,2011,Dingin,Berkabut,Selasa,Hari Kerja,103,1059,1162
+2011-12-28,2011,Dingin,Cerah,Rabu,Hari Kerja,255,2047,2302
+2011-12-29,2011,Dingin,Cerah,Kamis,Hari Kerja,254,2169,2423
+2011-12-30,2011,Dingin,Cerah,Jumat,Hari Kerja,491,2508,2999
+2011-12-31,2011,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,665,1820,2485
+2012-01-01,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,686,1608,2294
+2012-01-02,2012,Dingin,Cerah,Senin,Hari Libur / Akhir Pekan,244,1707,1951
+2012-01-03,2012,Dingin,Cerah,Selasa,Hari Kerja,89,2147,2236
+2012-01-04,2012,Dingin,Berkabut,Rabu,Hari Kerja,95,2273,2368
+2012-01-05,2012,Dingin,Cerah,Kamis,Hari Kerja,140,3132,3272
+2012-01-06,2012,Dingin,Cerah,Jumat,Hari Kerja,307,3791,4098
+2012-01-07,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,1070,3451,4521
+2012-01-08,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,599,2826,3425
+2012-01-09,2012,Dingin,Berkabut,Senin,Hari Kerja,106,2270,2376
+2012-01-10,2012,Dingin,Cerah,Selasa,Hari Kerja,173,3425,3598
+2012-01-11,2012,Dingin,Berkabut,Rabu,Hari Kerja,92,2085,2177
+2012-01-12,2012,Dingin,Berkabut,Kamis,Hari Kerja,269,3828,4097
+2012-01-13,2012,Dingin,Cerah,Jumat,Hari Kerja,174,3040,3214
+2012-01-14,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,333,2160,2493
+2012-01-15,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,284,2027,2311
+2012-01-16,2012,Dingin,Cerah,Senin,Hari Libur / Akhir Pekan,217,2081,2298
+2012-01-17,2012,Dingin,Berkabut,Selasa,Hari Kerja,127,2808,2935
+2012-01-18,2012,Dingin,Cerah,Rabu,Hari Kerja,109,3267,3376
+2012-01-19,2012,Dingin,Cerah,Kamis,Hari Kerja,130,3162,3292
+2012-01-20,2012,Dingin,Berkabut,Jumat,Hari Kerja,115,3048,3163
+2012-01-21,2012,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,67,1234,1301
+2012-01-22,2012,Dingin,Berkabut,Minggu,Hari Libur / Akhir Pekan,196,1781,1977
+2012-01-23,2012,Dingin,Berkabut,Senin,Hari Kerja,145,2287,2432
+2012-01-24,2012,Dingin,Cerah,Selasa,Hari Kerja,439,3900,4339
+2012-01-25,2012,Dingin,Cerah,Rabu,Hari Kerja,467,3803,4270
+2012-01-26,2012,Dingin,Berkabut,Kamis,Hari Kerja,244,3831,4075
+2012-01-27,2012,Dingin,Berkabut,Jumat,Hari Kerja,269,3187,3456
+2012-01-28,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,775,3248,4023
+2012-01-29,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,558,2685,3243
+2012-01-30,2012,Dingin,Cerah,Senin,Hari Kerja,126,3498,3624
+2012-01-31,2012,Dingin,Cerah,Selasa,Hari Kerja,324,4185,4509
+2012-02-01,2012,Dingin,Cerah,Rabu,Hari Kerja,304,4275,4579
+2012-02-02,2012,Dingin,Berkabut,Kamis,Hari Kerja,190,3571,3761
+2012-02-03,2012,Dingin,Cerah,Jumat,Hari Kerja,310,3841,4151
+2012-02-04,2012,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,384,2448,2832
+2012-02-05,2012,Dingin,Berkabut,Minggu,Hari Libur / Akhir Pekan,318,2629,2947
+2012-02-06,2012,Dingin,Cerah,Senin,Hari Kerja,206,3578,3784
+2012-02-07,2012,Dingin,Cerah,Selasa,Hari Kerja,199,4176,4375
+2012-02-08,2012,Dingin,Berkabut,Rabu,Hari Kerja,109,2693,2802
+2012-02-09,2012,Dingin,Cerah,Kamis,Hari Kerja,163,3667,3830
+2012-02-10,2012,Dingin,Berkabut,Jumat,Hari Kerja,227,3604,3831
+2012-02-11,2012,Dingin,Hujan/Salju,Sabtu,Hari Libur / Akhir Pekan,192,1977,2169
+2012-02-12,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,73,1456,1529
+2012-02-13,2012,Dingin,Cerah,Senin,Hari Kerja,94,3328,3422
+2012-02-14,2012,Dingin,Berkabut,Selasa,Hari Kerja,135,3787,3922
+2012-02-15,2012,Dingin,Cerah,Rabu,Hari Kerja,141,4028,4169
+2012-02-16,2012,Dingin,Berkabut,Kamis,Hari Kerja,74,2931,3005
+2012-02-17,2012,Dingin,Cerah,Jumat,Hari Kerja,349,3805,4154
+2012-02-18,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,1435,2883,4318
+2012-02-19,2012,Dingin,Berkabut,Minggu,Hari Libur / Akhir Pekan,618,2071,2689
+2012-02-20,2012,Dingin,Cerah,Senin,Hari Libur / Akhir Pekan,502,2627,3129
+2012-02-21,2012,Dingin,Cerah,Selasa,Hari Kerja,163,3614,3777
+2012-02-22,2012,Dingin,Cerah,Rabu,Hari Kerja,394,4379,4773
+2012-02-23,2012,Dingin,Cerah,Kamis,Hari Kerja,516,4546,5062
+2012-02-24,2012,Dingin,Berkabut,Jumat,Hari Kerja,246,3241,3487
+2012-02-25,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,317,2415,2732
+2012-02-26,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,515,2874,3389
+2012-02-27,2012,Dingin,Cerah,Senin,Hari Kerja,253,4069,4322
+2012-02-28,2012,Dingin,Cerah,Selasa,Hari Kerja,229,4134,4363
+2012-02-29,2012,Dingin,Berkabut,Rabu,Hari Kerja,65,1769,1834
+2012-03-01,2012,Dingin,Cerah,Kamis,Hari Kerja,325,4665,4990
+2012-03-02,2012,Dingin,Berkabut,Jumat,Hari Kerja,246,2948,3194
+2012-03-03,2012,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,956,3110,4066
+2012-03-04,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,710,2713,3423
+2012-03-05,2012,Dingin,Cerah,Senin,Hari Kerja,203,3130,3333
+2012-03-06,2012,Dingin,Cerah,Selasa,Hari Kerja,221,3735,3956
+2012-03-07,2012,Dingin,Cerah,Rabu,Hari Kerja,432,4484,4916
+2012-03-08,2012,Dingin,Cerah,Kamis,Hari Kerja,486,4896,5382
+2012-03-09,2012,Dingin,Berkabut,Jumat,Hari Kerja,447,4122,4569
+2012-03-10,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,968,3150,4118
+2012-03-11,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,1658,3253,4911
+2012-03-12,2012,Dingin,Cerah,Senin,Hari Kerja,838,4460,5298
+2012-03-13,2012,Dingin,Cerah,Selasa,Hari Kerja,762,5085,5847
+2012-03-14,2012,Dingin,Cerah,Rabu,Hari Kerja,997,5315,6312
+2012-03-15,2012,Dingin,Cerah,Kamis,Hari Kerja,1005,5187,6192
+2012-03-16,2012,Dingin,Berkabut,Jumat,Hari Kerja,548,3830,4378
+2012-03-17,2012,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,3155,4681,7836
+2012-03-18,2012,Dingin,Berkabut,Minggu,Hari Libur / Akhir Pekan,2207,3685,5892
+2012-03-19,2012,Dingin,Cerah,Senin,Hari Kerja,982,5171,6153
+2012-03-20,2012,Dingin,Cerah,Selasa,Hari Kerja,1051,5042,6093
+2012-03-21,2012,Semi,Berkabut,Rabu,Hari Kerja,1122,5108,6230
+2012-03-22,2012,Semi,Cerah,Kamis,Hari Kerja,1334,5537,6871
+2012-03-23,2012,Semi,Berkabut,Jumat,Hari Kerja,2469,5893,8362
+2012-03-24,2012,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1033,2339,3372
+2012-03-25,2012,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,1532,3464,4996
+2012-03-26,2012,Semi,Cerah,Senin,Hari Kerja,795,4763,5558
+2012-03-27,2012,Semi,Cerah,Selasa,Hari Kerja,531,4571,5102
+2012-03-28,2012,Semi,Cerah,Rabu,Hari Kerja,674,5024,5698
+2012-03-29,2012,Semi,Cerah,Kamis,Hari Kerja,834,5299,6133
+2012-03-30,2012,Semi,Berkabut,Jumat,Hari Kerja,796,4663,5459
+2012-03-31,2012,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,2301,3934,6235
+2012-04-01,2012,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,2347,3694,6041
+2012-04-02,2012,Semi,Cerah,Senin,Hari Kerja,1208,4728,5936
+2012-04-03,2012,Semi,Cerah,Selasa,Hari Kerja,1348,5424,6772
+2012-04-04,2012,Semi,Cerah,Rabu,Hari Kerja,1058,5378,6436
+2012-04-05,2012,Semi,Cerah,Kamis,Hari Kerja,1192,5265,6457
+2012-04-06,2012,Semi,Cerah,Jumat,Hari Kerja,1807,4653,6460
+2012-04-07,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,3252,3605,6857
+2012-04-08,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2230,2939,5169
+2012-04-09,2012,Semi,Cerah,Senin,Hari Kerja,905,4680,5585
+2012-04-10,2012,Semi,Cerah,Selasa,Hari Kerja,819,5099,5918
+2012-04-11,2012,Semi,Cerah,Rabu,Hari Kerja,482,4380,4862
+2012-04-12,2012,Semi,Cerah,Kamis,Hari Kerja,663,4746,5409
+2012-04-13,2012,Semi,Cerah,Jumat,Hari Kerja,1252,5146,6398
+2012-04-14,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2795,4665,7460
+2012-04-15,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2846,4286,7132
+2012-04-16,2012,Semi,Cerah,Senin,Hari Libur / Akhir Pekan,1198,5172,6370
+2012-04-17,2012,Semi,Cerah,Selasa,Hari Kerja,989,5702,6691
+2012-04-18,2012,Semi,Berkabut,Rabu,Hari Kerja,347,4020,4367
+2012-04-19,2012,Semi,Cerah,Kamis,Hari Kerja,846,5719,6565
+2012-04-20,2012,Semi,Cerah,Jumat,Hari Kerja,1340,5950,7290
+2012-04-21,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2541,4083,6624
+2012-04-22,2012,Semi,Hujan/Salju,Minggu,Hari Libur / Akhir Pekan,120,907,1027
+2012-04-23,2012,Semi,Berkabut,Senin,Hari Kerja,195,3019,3214
+2012-04-24,2012,Semi,Cerah,Selasa,Hari Kerja,518,5115,5633
+2012-04-25,2012,Semi,Cerah,Rabu,Hari Kerja,655,5541,6196
+2012-04-26,2012,Semi,Berkabut,Kamis,Hari Kerja,475,4551,5026
+2012-04-27,2012,Semi,Cerah,Jumat,Hari Kerja,1014,5219,6233
+2012-04-28,2012,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1120,3100,4220
+2012-04-29,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2229,4075,6304
+2012-04-30,2012,Semi,Berkabut,Senin,Hari Kerja,665,4907,5572
+2012-05-01,2012,Semi,Berkabut,Selasa,Hari Kerja,653,5087,5740
+2012-05-02,2012,Semi,Cerah,Rabu,Hari Kerja,667,5502,6169
+2012-05-03,2012,Semi,Berkabut,Kamis,Hari Kerja,764,5657,6421
+2012-05-04,2012,Semi,Cerah,Jumat,Hari Kerja,1069,5227,6296
+2012-05-05,2012,Semi,Berkabut,Sabtu,Hari Libur / Akhir Pekan,2496,4387,6883
+2012-05-06,2012,Semi,Berkabut,Minggu,Hari Libur / Akhir Pekan,2135,4224,6359
+2012-05-07,2012,Semi,Berkabut,Senin,Hari Kerja,1008,5265,6273
+2012-05-08,2012,Semi,Berkabut,Selasa,Hari Kerja,738,4990,5728
+2012-05-09,2012,Semi,Berkabut,Rabu,Hari Kerja,620,4097,4717
+2012-05-10,2012,Semi,Cerah,Kamis,Hari Kerja,1026,5546,6572
+2012-05-11,2012,Semi,Cerah,Jumat,Hari Kerja,1319,5711,7030
+2012-05-12,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2622,4807,7429
+2012-05-13,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2172,3946,6118
+2012-05-14,2012,Semi,Berkabut,Senin,Hari Kerja,342,2501,2843
+2012-05-15,2012,Semi,Berkabut,Selasa,Hari Kerja,625,4490,5115
+2012-05-16,2012,Semi,Cerah,Rabu,Hari Kerja,991,6433,7424
+2012-05-17,2012,Semi,Cerah,Kamis,Hari Kerja,1242,6142,7384
+2012-05-18,2012,Semi,Cerah,Jumat,Hari Kerja,1521,6118,7639
+2012-05-19,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,3410,4884,8294
+2012-05-20,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2704,4425,7129
+2012-05-21,2012,Semi,Berkabut,Senin,Hari Kerja,630,3729,4359
+2012-05-22,2012,Semi,Berkabut,Selasa,Hari Kerja,819,5254,6073
+2012-05-23,2012,Semi,Berkabut,Rabu,Hari Kerja,766,4494,5260
+2012-05-24,2012,Semi,Cerah,Kamis,Hari Kerja,1059,5711,6770
+2012-05-25,2012,Semi,Cerah,Jumat,Hari Kerja,1417,5317,6734
+2012-05-26,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2855,3681,6536
+2012-05-27,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,3283,3308,6591
+2012-05-28,2012,Semi,Cerah,Senin,Hari Libur / Akhir Pekan,2557,3486,6043
+2012-05-29,2012,Semi,Cerah,Selasa,Hari Kerja,880,4863,5743
+2012-05-30,2012,Semi,Berkabut,Rabu,Hari Kerja,745,6110,6855
+2012-05-31,2012,Semi,Cerah,Kamis,Hari Kerja,1100,6238,7338
+2012-06-01,2012,Semi,Berkabut,Jumat,Hari Kerja,533,3594,4127
+2012-06-02,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2795,5325,8120
+2012-06-03,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2494,5147,7641
+2012-06-04,2012,Semi,Cerah,Senin,Hari Kerja,1071,5927,6998
+2012-06-05,2012,Semi,Berkabut,Selasa,Hari Kerja,968,6033,7001
+2012-06-06,2012,Semi,Cerah,Rabu,Hari Kerja,1027,6028,7055
+2012-06-07,2012,Semi,Cerah,Kamis,Hari Kerja,1038,6456,7494
+2012-06-08,2012,Semi,Cerah,Jumat,Hari Kerja,1488,6248,7736
+2012-06-09,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2708,4790,7498
+2012-06-10,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2224,4374,6598
+2012-06-11,2012,Semi,Berkabut,Senin,Hari Kerja,1017,5647,6664
+2012-06-12,2012,Semi,Berkabut,Selasa,Hari Kerja,477,4495,4972
+2012-06-13,2012,Semi,Cerah,Rabu,Hari Kerja,1173,6248,7421
+2012-06-14,2012,Semi,Cerah,Kamis,Hari Kerja,1180,6183,7363
+2012-06-15,2012,Semi,Cerah,Jumat,Hari Kerja,1563,6102,7665
+2012-06-16,2012,Semi,Cerah,Sabtu,Hari Libur / Akhir Pekan,2963,4739,7702
+2012-06-17,2012,Semi,Cerah,Minggu,Hari Libur / Akhir Pekan,2634,4344,6978
+2012-06-18,2012,Semi,Berkabut,Senin,Hari Kerja,653,4446,5099
+2012-06-19,2012,Semi,Cerah,Selasa,Hari Kerja,968,5857,6825
+2012-06-20,2012,Semi,Cerah,Rabu,Hari Kerja,872,5339,6211
+2012-06-21,2012,Panas,Cerah,Kamis,Hari Kerja,778,5127,5905
+2012-06-22,2012,Panas,Cerah,Jumat,Hari Kerja,964,4859,5823
+2012-06-23,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2657,4801,7458
+2012-06-24,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2551,4340,6891
+2012-06-25,2012,Panas,Cerah,Senin,Hari Kerja,1139,5640,6779
+2012-06-26,2012,Panas,Cerah,Selasa,Hari Kerja,1077,6365,7442
+2012-06-27,2012,Panas,Cerah,Rabu,Hari Kerja,1077,6258,7335
+2012-06-28,2012,Panas,Cerah,Kamis,Hari Kerja,921,5958,6879
+2012-06-29,2012,Panas,Cerah,Jumat,Hari Kerja,829,4634,5463
+2012-06-30,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1455,4232,5687
+2012-07-01,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1421,4110,5531
+2012-07-02,2012,Panas,Cerah,Senin,Hari Kerja,904,5323,6227
+2012-07-03,2012,Panas,Cerah,Selasa,Hari Kerja,1052,5608,6660
+2012-07-04,2012,Panas,Cerah,Rabu,Hari Libur / Akhir Pekan,2562,4841,7403
+2012-07-05,2012,Panas,Cerah,Kamis,Hari Kerja,1405,4836,6241
+2012-07-06,2012,Panas,Cerah,Jumat,Hari Kerja,1366,4841,6207
+2012-07-07,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,1448,3392,4840
+2012-07-08,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1203,3469,4672
+2012-07-09,2012,Panas,Berkabut,Senin,Hari Kerja,998,5571,6569
+2012-07-10,2012,Panas,Berkabut,Selasa,Hari Kerja,954,5336,6290
+2012-07-11,2012,Panas,Cerah,Rabu,Hari Kerja,975,6289,7264
+2012-07-12,2012,Panas,Cerah,Kamis,Hari Kerja,1032,6414,7446
+2012-07-13,2012,Panas,Berkabut,Jumat,Hari Kerja,1511,5988,7499
+2012-07-14,2012,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,2355,4614,6969
+2012-07-15,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1920,4111,6031
+2012-07-16,2012,Panas,Cerah,Senin,Hari Kerja,1088,5742,6830
+2012-07-17,2012,Panas,Cerah,Selasa,Hari Kerja,921,5865,6786
+2012-07-18,2012,Panas,Cerah,Rabu,Hari Kerja,799,4914,5713
+2012-07-19,2012,Panas,Cerah,Kamis,Hari Kerja,888,5703,6591
+2012-07-20,2012,Panas,Berkabut,Jumat,Hari Kerja,747,5123,5870
+2012-07-21,2012,Panas,Hujan/Salju,Sabtu,Hari Libur / Akhir Pekan,1264,3195,4459
+2012-07-22,2012,Panas,Berkabut,Minggu,Hari Libur / Akhir Pekan,2544,4866,7410
+2012-07-23,2012,Panas,Cerah,Senin,Hari Kerja,1135,5831,6966
+2012-07-24,2012,Panas,Cerah,Selasa,Hari Kerja,1140,6452,7592
+2012-07-25,2012,Panas,Cerah,Rabu,Hari Kerja,1383,6790,8173
+2012-07-26,2012,Panas,Cerah,Kamis,Hari Kerja,1036,5825,6861
+2012-07-27,2012,Panas,Cerah,Jumat,Hari Kerja,1259,5645,6904
+2012-07-28,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2234,4451,6685
+2012-07-29,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2153,4444,6597
+2012-07-30,2012,Panas,Cerah,Senin,Hari Kerja,1040,6065,7105
+2012-07-31,2012,Panas,Cerah,Selasa,Hari Kerja,968,6248,7216
+2012-08-01,2012,Panas,Cerah,Rabu,Hari Kerja,1074,6506,7580
+2012-08-02,2012,Panas,Cerah,Kamis,Hari Kerja,983,6278,7261
+2012-08-03,2012,Panas,Berkabut,Jumat,Hari Kerja,1328,5847,7175
+2012-08-04,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2345,4479,6824
+2012-08-05,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,1707,3757,5464
+2012-08-06,2012,Panas,Berkabut,Senin,Hari Kerja,1233,5780,7013
+2012-08-07,2012,Panas,Berkabut,Selasa,Hari Kerja,1278,5995,7273
+2012-08-08,2012,Panas,Berkabut,Rabu,Hari Kerja,1263,6271,7534
+2012-08-09,2012,Panas,Cerah,Kamis,Hari Kerja,1196,6090,7286
+2012-08-10,2012,Panas,Berkabut,Jumat,Hari Kerja,1065,4721,5786
+2012-08-11,2012,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,2247,4052,6299
+2012-08-12,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2182,4362,6544
+2012-08-13,2012,Panas,Cerah,Senin,Hari Kerja,1207,5676,6883
+2012-08-14,2012,Panas,Cerah,Selasa,Hari Kerja,1128,5656,6784
+2012-08-15,2012,Panas,Cerah,Rabu,Hari Kerja,1198,6149,7347
+2012-08-16,2012,Panas,Cerah,Kamis,Hari Kerja,1338,6267,7605
+2012-08-17,2012,Panas,Cerah,Jumat,Hari Kerja,1483,5665,7148
+2012-08-18,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2827,5038,7865
+2012-08-19,2012,Panas,Berkabut,Minggu,Hari Libur / Akhir Pekan,1208,3341,4549
+2012-08-20,2012,Panas,Berkabut,Senin,Hari Kerja,1026,5504,6530
+2012-08-21,2012,Panas,Cerah,Selasa,Hari Kerja,1081,5925,7006
+2012-08-22,2012,Panas,Cerah,Rabu,Hari Kerja,1094,6281,7375
+2012-08-23,2012,Panas,Cerah,Kamis,Hari Kerja,1363,6402,7765
+2012-08-24,2012,Panas,Berkabut,Jumat,Hari Kerja,1325,6257,7582
+2012-08-25,2012,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1829,4224,6053
+2012-08-26,2012,Panas,Berkabut,Minggu,Hari Libur / Akhir Pekan,1483,3772,5255
+2012-08-27,2012,Panas,Cerah,Senin,Hari Kerja,989,5928,6917
+2012-08-28,2012,Panas,Cerah,Selasa,Hari Kerja,935,6105,7040
+2012-08-29,2012,Panas,Cerah,Rabu,Hari Kerja,1177,6520,7697
+2012-08-30,2012,Panas,Cerah,Kamis,Hari Kerja,1172,6541,7713
+2012-08-31,2012,Panas,Cerah,Jumat,Hari Kerja,1433,5917,7350
+2012-09-01,2012,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,2352,3788,6140
+2012-09-02,2012,Panas,Berkabut,Minggu,Hari Libur / Akhir Pekan,2613,3197,5810
+2012-09-03,2012,Panas,Cerah,Senin,Hari Libur / Akhir Pekan,1965,4069,6034
+2012-09-04,2012,Panas,Cerah,Selasa,Hari Kerja,867,5997,6864
+2012-09-05,2012,Panas,Cerah,Rabu,Hari Kerja,832,6280,7112
+2012-09-06,2012,Panas,Berkabut,Kamis,Hari Kerja,611,5592,6203
+2012-09-07,2012,Panas,Cerah,Jumat,Hari Kerja,1045,6459,7504
+2012-09-08,2012,Panas,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1557,4419,5976
+2012-09-09,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2570,5657,8227
+2012-09-10,2012,Panas,Cerah,Senin,Hari Kerja,1118,6407,7525
+2012-09-11,2012,Panas,Cerah,Selasa,Hari Kerja,1070,6697,7767
+2012-09-12,2012,Panas,Cerah,Rabu,Hari Kerja,1050,6820,7870
+2012-09-13,2012,Panas,Cerah,Kamis,Hari Kerja,1054,6750,7804
+2012-09-14,2012,Panas,Cerah,Jumat,Hari Kerja,1379,6630,8009
+2012-09-15,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,3160,5554,8714
+2012-09-16,2012,Panas,Cerah,Minggu,Hari Libur / Akhir Pekan,2166,5167,7333
+2012-09-17,2012,Panas,Berkabut,Senin,Hari Kerja,1022,5847,6869
+2012-09-18,2012,Panas,Berkabut,Selasa,Hari Kerja,371,3702,4073
+2012-09-19,2012,Panas,Cerah,Rabu,Hari Kerja,788,6803,7591
+2012-09-20,2012,Panas,Cerah,Kamis,Hari Kerja,939,6781,7720
+2012-09-21,2012,Panas,Cerah,Jumat,Hari Kerja,1250,6917,8167
+2012-09-22,2012,Panas,Cerah,Sabtu,Hari Libur / Akhir Pekan,2512,5883,8395
+2012-09-23,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,2454,5453,7907
+2012-09-24,2012,Gugur,Cerah,Senin,Hari Kerja,1001,6435,7436
+2012-09-25,2012,Gugur,Cerah,Selasa,Hari Kerja,845,6693,7538
+2012-09-26,2012,Gugur,Cerah,Rabu,Hari Kerja,787,6946,7733
+2012-09-27,2012,Gugur,Berkabut,Kamis,Hari Kerja,751,6642,7393
+2012-09-28,2012,Gugur,Berkabut,Jumat,Hari Kerja,1045,6370,7415
+2012-09-29,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,2589,5966,8555
+2012-09-30,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,2015,4874,6889
+2012-10-01,2012,Gugur,Berkabut,Senin,Hari Kerja,763,6015,6778
+2012-10-02,2012,Gugur,Hujan/Salju,Selasa,Hari Kerja,315,4324,4639
+2012-10-03,2012,Gugur,Berkabut,Rabu,Hari Kerja,728,6844,7572
+2012-10-04,2012,Gugur,Berkabut,Kamis,Hari Kerja,891,6437,7328
+2012-10-05,2012,Gugur,Cerah,Jumat,Hari Kerja,1516,6640,8156
+2012-10-06,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,3031,4934,7965
+2012-10-07,2012,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,781,2729,3510
+2012-10-08,2012,Gugur,Berkabut,Senin,Hari Libur / Akhir Pekan,874,4604,5478
+2012-10-09,2012,Gugur,Berkabut,Selasa,Hari Kerja,601,5791,6392
+2012-10-10,2012,Gugur,Cerah,Rabu,Hari Kerja,780,6911,7691
+2012-10-11,2012,Gugur,Cerah,Kamis,Hari Kerja,834,6736,7570
+2012-10-12,2012,Gugur,Cerah,Jumat,Hari Kerja,1060,6222,7282
+2012-10-13,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,2252,4857,7109
+2012-10-14,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,2080,4559,6639
+2012-10-15,2012,Gugur,Berkabut,Senin,Hari Kerja,760,5115,5875
+2012-10-16,2012,Gugur,Cerah,Selasa,Hari Kerja,922,6612,7534
+2012-10-17,2012,Gugur,Cerah,Rabu,Hari Kerja,979,6482,7461
+2012-10-18,2012,Gugur,Berkabut,Kamis,Hari Kerja,1008,6501,7509
+2012-10-19,2012,Gugur,Berkabut,Jumat,Hari Kerja,753,4671,5424
+2012-10-20,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,2806,5284,8090
+2012-10-21,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,2132,4692,6824
+2012-10-22,2012,Gugur,Cerah,Senin,Hari Kerja,830,6228,7058
+2012-10-23,2012,Gugur,Cerah,Selasa,Hari Kerja,841,6625,7466
+2012-10-24,2012,Gugur,Cerah,Rabu,Hari Kerja,795,6898,7693
+2012-10-25,2012,Gugur,Berkabut,Kamis,Hari Kerja,875,6484,7359
+2012-10-26,2012,Gugur,Berkabut,Jumat,Hari Kerja,1182,6262,7444
+2012-10-27,2012,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,2643,5209,7852
+2012-10-28,2012,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,998,3461,4459
+2012-10-29,2012,Gugur,Hujan/Salju,Senin,Hari Kerja,2,20,22
+2012-10-30,2012,Gugur,Berkabut,Selasa,Hari Kerja,87,1009,1096
+2012-10-31,2012,Gugur,Berkabut,Rabu,Hari Kerja,419,5147,5566
+2012-11-01,2012,Gugur,Berkabut,Kamis,Hari Kerja,466,5520,5986
+2012-11-02,2012,Gugur,Cerah,Jumat,Hari Kerja,618,5229,5847
+2012-11-03,2012,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1029,4109,5138
+2012-11-04,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,1201,3906,5107
+2012-11-05,2012,Gugur,Cerah,Senin,Hari Kerja,378,4881,5259
+2012-11-06,2012,Gugur,Cerah,Selasa,Hari Kerja,466,5220,5686
+2012-11-07,2012,Gugur,Berkabut,Rabu,Hari Kerja,326,4709,5035
+2012-11-08,2012,Gugur,Cerah,Kamis,Hari Kerja,340,4975,5315
+2012-11-09,2012,Gugur,Cerah,Jumat,Hari Kerja,709,5283,5992
+2012-11-10,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,2090,4446,6536
+2012-11-11,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,2290,4562,6852
+2012-11-12,2012,Gugur,Cerah,Senin,Hari Libur / Akhir Pekan,1097,5172,6269
+2012-11-13,2012,Gugur,Berkabut,Selasa,Hari Kerja,327,3767,4094
+2012-11-14,2012,Gugur,Cerah,Rabu,Hari Kerja,373,5122,5495
+2012-11-15,2012,Gugur,Berkabut,Kamis,Hari Kerja,320,5125,5445
+2012-11-16,2012,Gugur,Cerah,Jumat,Hari Kerja,484,5214,5698
+2012-11-17,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,1313,4316,5629
+2012-11-18,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,922,3747,4669
+2012-11-19,2012,Gugur,Berkabut,Senin,Hari Kerja,449,5050,5499
+2012-11-20,2012,Gugur,Berkabut,Selasa,Hari Kerja,534,5100,5634
+2012-11-21,2012,Gugur,Cerah,Rabu,Hari Kerja,615,4531,5146
+2012-11-22,2012,Gugur,Cerah,Kamis,Hari Libur / Akhir Pekan,955,1470,2425
+2012-11-23,2012,Gugur,Cerah,Jumat,Hari Kerja,1603,2307,3910
+2012-11-24,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,532,1745,2277
+2012-11-25,2012,Gugur,Cerah,Minggu,Hari Libur / Akhir Pekan,309,2115,2424
+2012-11-26,2012,Gugur,Cerah,Senin,Hari Kerja,337,4750,5087
+2012-11-27,2012,Gugur,Berkabut,Selasa,Hari Kerja,123,3836,3959
+2012-11-28,2012,Gugur,Cerah,Rabu,Hari Kerja,198,5062,5260
+2012-11-29,2012,Gugur,Cerah,Kamis,Hari Kerja,243,5080,5323
+2012-11-30,2012,Gugur,Cerah,Jumat,Hari Kerja,362,5306,5668
+2012-12-01,2012,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,951,4240,5191
+2012-12-02,2012,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,892,3757,4649
+2012-12-03,2012,Gugur,Cerah,Senin,Hari Kerja,555,5679,6234
+2012-12-04,2012,Gugur,Cerah,Selasa,Hari Kerja,551,6055,6606
+2012-12-05,2012,Gugur,Cerah,Rabu,Hari Kerja,331,5398,5729
+2012-12-06,2012,Gugur,Cerah,Kamis,Hari Kerja,340,5035,5375
+2012-12-07,2012,Gugur,Berkabut,Jumat,Hari Kerja,349,4659,5008
+2012-12-08,2012,Gugur,Berkabut,Sabtu,Hari Libur / Akhir Pekan,1153,4429,5582
+2012-12-09,2012,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,441,2787,3228
+2012-12-10,2012,Gugur,Berkabut,Senin,Hari Kerja,329,4841,5170
+2012-12-11,2012,Gugur,Berkabut,Selasa,Hari Kerja,282,5219,5501
+2012-12-12,2012,Gugur,Berkabut,Rabu,Hari Kerja,310,5009,5319
+2012-12-13,2012,Gugur,Cerah,Kamis,Hari Kerja,425,5107,5532
+2012-12-14,2012,Gugur,Cerah,Jumat,Hari Kerja,429,5182,5611
+2012-12-15,2012,Gugur,Cerah,Sabtu,Hari Libur / Akhir Pekan,767,4280,5047
+2012-12-16,2012,Gugur,Berkabut,Minggu,Hari Libur / Akhir Pekan,538,3248,3786
+2012-12-17,2012,Gugur,Berkabut,Senin,Hari Kerja,212,4373,4585
+2012-12-18,2012,Gugur,Cerah,Selasa,Hari Kerja,433,5124,5557
+2012-12-19,2012,Gugur,Cerah,Rabu,Hari Kerja,333,4934,5267
+2012-12-20,2012,Gugur,Berkabut,Kamis,Hari Kerja,314,3814,4128
+2012-12-21,2012,Dingin,Berkabut,Jumat,Hari Kerja,221,3402,3623
+2012-12-22,2012,Dingin,Cerah,Sabtu,Hari Libur / Akhir Pekan,205,1544,1749
+2012-12-23,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,408,1379,1787
+2012-12-24,2012,Dingin,Berkabut,Senin,Hari Kerja,174,746,920
+2012-12-25,2012,Dingin,Berkabut,Selasa,Hari Libur / Akhir Pekan,440,573,1013
+2012-12-26,2012,Dingin,Hujan/Salju,Rabu,Hari Kerja,9,432,441
+2012-12-27,2012,Dingin,Berkabut,Kamis,Hari Kerja,247,1867,2114
+2012-12-28,2012,Dingin,Berkabut,Jumat,Hari Kerja,644,2451,3095
+2012-12-29,2012,Dingin,Berkabut,Sabtu,Hari Libur / Akhir Pekan,159,1182,1341
+2012-12-30,2012,Dingin,Cerah,Minggu,Hari Libur / Akhir Pekan,364,1432,1796
+2012-12-31,2012,Dingin,Berkabut,Senin,Hari Kerja,439,2290,2729
